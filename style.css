@@ -1,0 +1,26 @@
+
+.button{
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+    border: solid black 2px;
+    display: flex;
+    
+    justify-content:space-around;
+    align-items: center;
+    
+}
+#grey{
+    background-color: grey;
+}
+#white{
+    background-color: white;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
